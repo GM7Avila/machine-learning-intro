@@ -52,7 +52,6 @@ plt.xlabel("Motores")
 plt.show()
 
 
-
 # Avaliando o Modelo
 print("Soma dos Erros ao Quadrado (SSE): %.2f " % np.sum((predCO2 - co2_teste)**2))
 print("Erro Quadrático Médio (MSE): %.2f" % mean_squared_error(co2_teste, predCO2))
