@@ -1,6 +1,6 @@
 # Data Science e Machine Learning
 
-Repositório dedicado ao estudo de **Machine Learning** e **Data Science** com Python, explorando conceitos teóricos e aplicações práticas.Conteúdos
+Repositório dedicado ao estudo de **Machine Learning** e **Data Science** com Python, explorando conceitos teóricos e aplicações práticas.
 
 ## Conteúdo
 
